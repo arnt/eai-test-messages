@@ -12,7 +12,7 @@ the same way as domains? For several reasons:
   question.
 
   Sites like outlook.com were known to permit the general public to create
-  localaprts.  There's no ban on strings starting with xn.  The IETF
+  localparts.  There's no ban on strings starting with xn.  The IETF
   working group felt that introducing a ban was not realistically
   possible.
 
